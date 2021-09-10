@@ -1,4 +1,4 @@
-## Scratch Verlosung
+## Verlosung
 Klicke auf die Katze und gib die Personen ein, die an der Verlosung teilnehmen sollen.
 Klicke danach auf den Zauberhut der Katze und er verrät dir, wer gewonnen hat!
 
